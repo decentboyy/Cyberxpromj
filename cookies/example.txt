@@ -1,12 +1,12 @@
 # Netscape HTTP Cookie File
-# This is a generated file! Do not edit.
+# This is a generated file! Do not edit. 
 
 # domain	included_subdomains	path	secure	expiration_date	name	value
 .youtube.com	TRUE	/	TRUE	1770053434	__Secure-1PSIDCC	AKEyXzX7v_mRrEv6La5BsoLAhQGqT8k94x0BwIM6zMhwMpUzBPIlwWA85PP2wLnl8OErElrSCA
 .youtube.com	TRUE	/	TRUE	1770053434	__Secure-3PSIDCC	AKEyXzU9d0ffRWOh-TFuCQtKp3d1i-AcI4ZGwfnwawDuiWVY8zofoHcjIBdt8bj1cQ-IxmLycQ
 .youtube.com	TRUE	/	TRUE	1770053434	YSC	6mKA1SXGfhU
 .youtube.com	TRUE	/	TRUE	1773077170	LOGIN_INFO	AFmmF2swRgIhAMnqKfqGa28aeg8BL4Dzo1ukkgo2R18ziq9qFx1OLRUiAiEAvQe1RBy2mS11Gb7k39H0CFMmzNT5dpt2mX0-dpkh0qc
-.youtube.com	TRUE	/	FALSE	1773077170	SID	g.a000tAjXZGBFTaWOqE9OlTkymSIUONLYptIn2Ed7YM7ab3Dy5P1JfwUZGvh0QCaHPPCUCyr41wACgYKATkSARUSFQHGX2Mihvdhi4l_ft_ZN8z_6dlBjhoVAUF8yKp-E8TYjyELbwyD9Hf3pSyR0076
+.youtube.com	TRUE	/	FALSE	1773077170	SID g.a000tAjXZGBFTaWOqE9OlTkymSIUONLYptIn2Ed7YM7ab3Dy5P1JfwUZGvh0QCaHPPCUCyr41wACgYKATkSARUSFQHGX2Mihvdhi4l_ft_ZN8z_6dlBjhoVAUF8yKp-E8TYjyELbwyD9Hf3pSyR0076
 .youtube.com	TRUE	/	TRUE	1773077170	__Secure-1PAPISID	jI0_OxHZF9Aq8JQP/APpwwu49ACaU0INAa
 .youtube.com	TRUE	/	TRUE	1773077170	SAPISID	jI0_OxHZF9Aq8JQP/APpwwu49ACaU0INAa
 .youtube.com	TRUE	/	FALSE	1770053434	SIDCC	AKEyXzXxF8uB-p0XHLCNVo7DiyB5_U132afcRhSiO6SCn3cgGn0zD1cncQKlN3ZyguGA5S3q
